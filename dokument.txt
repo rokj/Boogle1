@@ -5,10 +5,8 @@ To je drug texgt.
 
 Ponedeljek
 
-<<<<<<< HEAD
-Torek
-=======
 Torek
 
-Ne vem kaj delam. 
->>>>>>> dad44041a1a8d0031ff0b7fd27a7501874755ed5
+Ne vem kaj delam.
+
+Cetrtek
